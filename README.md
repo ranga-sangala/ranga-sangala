@@ -13,7 +13,7 @@
 
 • 🔭 I’m currently working on <b>React</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
-• 👨‍💻 Ask me about <b>Full Stack</b>.<br/>
+• 👨‍💻 Ask me about <b>Frontend</b>.<br/>
 • 💬 Contact me at <a href="https://www.instagram.com/"><b>@ranga_sangala7</b></a><br/>
 • 📫 Reach me at clakshmiranga@gmail.com<br/>
 
